@@ -4,6 +4,22 @@
   "author": "笼鸠",
   "cover": "https://imgur.com/UHyMD9C.png",
   "chapters": {
+  "64.5": {
+      "title": "يوم الأوهام الليلية للمهجع رقم ٢٠٣ - الجزء الثاني",
+      "volume": "الموسم الأول",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/fSQMjwq/"
+      },
+      "last_updated": "1616368746"
+    },
+  "64": {
+      "title": "ذكريات",
+      "volume": "الموسم الأول",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/uLMlsRy/"
+      },
+      "last_updated": "1616368746"
+    },
     "63": {
       "title": "يومٌ ما في المستقبل",
       "volume": "الموسم الأول",
@@ -13,7 +29,7 @@
       "last_updated": "1616368746"
     },
     "62.5": {
-      "title": "،يوم الأوهام الليلية للمهجع رقم٢٠٣",
+      "title": "يوم الأوهام الليلية للمهجع رقم ٢٠٣- الجزء الأول ",
       "volume": "الموسم الأول",
       "groups": {
         "Hansoo": "/proxy/api/imgur/chapter/gYrob8m/"
