@@ -4,6 +4,14 @@
   "author": "笼鸠",
   "cover": "https://imgur.com/UHyMD9C.png",
   "chapters": {
+  "68": {
+      "title": "ذكريات",
+      "volume": "الموسم الأول",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/ien30Sp/"
+      },
+      "last_updated": "1632156363"
+    },
   "67.5": {
       "title": "إعتذار",
       "volume": "الموسم الأول",
